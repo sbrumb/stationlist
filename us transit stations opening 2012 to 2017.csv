@@ -1,0 +1,282 @@
+lines,Mode,name,region,year,lon,lat,url
+Orange Line,Light Rail,Belt Line,Dallas TX,2012,-96.9865,32.8882,https://en.wikipedia.org/wiki/Orange_Line_(Dallas_Area_Rapid_Transit)
+Orange Line,Light Rail,North Lake College,Dallas TX,2012,-96.9673,32.8753,https://en.wikipedia.org/wiki/Orange_Line_(Dallas_Area_Rapid_Transit)
+Orange Line,Light Rail,Irving Convention Center,Dallas TX,2012,-96.9538,32.8822,https://en.wikipedia.org/wiki/Orange_Line_(Dallas_Area_Rapid_Transit)
+Orange Line,Light Rail,Las Colinas Urban Center,Dallas TX,2012,-96.9336,32.8688,https://en.wikipedia.org/wiki/Orange_Line_(Dallas_Area_Rapid_Transit)
+Orange Line,Light Rail,University of Dallas,Dallas TX,2012,-96.9158,32.8493,https://en.wikipedia.org/wiki/Orange_Line_(Dallas_Area_Rapid_Transit)
+Blue Line,Light Rail,Downtown Rowlett,Dallas TX,2012,-96.5643,32.904,https://en.wikipedia.org/wiki/Blue_Line_(Dallas_Area_Rapid_Transit)
+Expo Line,Light Rail,Culver City,Los Angeles CA,2012,-118.389,34.0279,https://en.wikipedia.org/wiki/Expo_Line_(Los_Angeles_Metro)
+Expo Line,Light Rail,La Cienega/Jefferson,Los Angeles CA,2012,-118.3715,34.0263,https://en.wikipedia.org/wiki/Expo_Line_(Los_Angeles_Metro)
+Expo Line,Light Rail,Expo/La Brea,Los Angeles CA,2012,-118.3547,34.0248,https://en.wikipedia.org/wiki/Expo_Line_(Los_Angeles_Metro)
+Expo Line,Light Rail,Farmdale,Los Angeles CA,2012,-118.3458,34.0239,https://en.wikipedia.org/wiki/Expo_Line_(Los_Angeles_Metro)
+Expo/Crenshaw Lines,Light Rail,Expo/Crenshaw,Los Angeles CA,2012,-118.3351,34.0226,https://en.wikipedia.org/wiki/Expo_Line_(Los_Angeles_Metro)
+Expo Line,Light Rail,Jefferson,Los Angeles CA,2012,-118.2786,34.0215,https://en.wikipedia.org/wiki/Expo_Line_(Los_Angeles_Metro)
+Expo Line,Light Rail,Expo Park/USC,Los Angeles CA,2012,-118.2858,34.0182,https://en.wikipedia.org/wiki/Expo_Line_(Los_Angeles_Metro)
+Expo Line,Light Rail,Expo/Vermont,Los Angeles CA,2012,-118.2925,34.0183,https://en.wikipedia.org/wiki/Expo_Line_(Los_Angeles_Metro)
+Expo Line,Light Rail,Expo/Western,Los Angeles CA,2012,-118.3089,34.0183,https://en.wikipedia.org/wiki/Expo_Line_(Los_Angeles_Metro)
+Orange Line,Heavy Rail,Miami International Airport,NA,2012,-80.2584,25.797,https://en.wikipedia.org/wiki/Miami_Intermodal_Center
+Orange Line,Bus Rapid Transit,Sherman Way,NA,2012,-118.5971,34.2029,https://en.wikipedia.org/wiki/Orange_Line_(Los_Angeles_Metro)
+Orange Line,Bus Rapid Transit,Nordhoff,NA,2012,-118.5973,34.233,https://en.wikipedia.org/wiki/Orange_Line_(Los_Angeles_Metro)
+Orange Line,Bus Rapid Transit,Roscoe,NA,2012,-118.5973,34.2196,https://en.wikipedia.org/wiki/Orange_Line_(Los_Angeles_Metro)
+Orange Line,Bus Rapid Transit,Chatsworth,NA,2012,-118.599,34.2516,https://en.wikipedia.org/wiki/Orange_Line_(Los_Angeles_Metro)
+Blue/Red Lines,Light Rail,South Hills Junction,Pittsburgh PA,2012,-80.0074,40.4207,https://en.wikipedia.org/wiki/North_Shore_Connector
+Blue/Red Lines,Light Rail,Station Square,Pittsburgh PA,2012,-80.0031,40.4316,https://en.wikipedia.org/wiki/North_Shore_Connector
+Blue/Red Lines,Light Rail,First Ave,Pittsburgh PA,2012,-79.9967,40.4353,https://en.wikipedia.org/wiki/North_Shore_Connector
+Blue/Red Lines,Light Rail,Steel Plaza,Pittsburgh PA,2012,-79.995,40.4399,https://en.wikipedia.org/wiki/North_Shore_Connector
+Blue/Red Lines,Light Rail,Wood Street,Pittsburgh PA,2012,-79.9996,40.4421,https://en.wikipedia.org/wiki/North_Shore_Connector
+Blue/Red Lines,Light Rail,Gateway,Pittsburgh PA,2012,-80.0039,40.4418,https://en.wikipedia.org/wiki/North_Shore_Connector
+Blue/Red Lines,Light Rail,North Side,Pittsburgh PA,2012,-80.0096,40.448,https://en.wikipedia.org/wiki/North_Shore_Connector
+Blue/Red Lines,Light Rail,Allegheny,Pittsburgh PA,2012,-80.0179,40.4479,https://en.wikipedia.org/wiki/North_Shore_Connector
+MAX Green/Yellow Lines,Light Rail,Southwest College,Portland OR,2012,-122.6836,45.5095,https://en.wikipedia.org/wiki/List_of_MAX_Light_Rail_stations
+Gold/Green Lines,Light Rail,8th-H-County Center,Sacramento CA,2012,-121.4953,38.583,https://en.wikipedia.org/wiki/Green_Line_(Sacramento_RT)
+Green Line,Light Rail,7th-Richards-Township 9,Sacramento CA,2012,-121.4946,38.597,https://en.wikipedia.org/wiki/Green_Line_(Sacramento_RT)
+W Line,Light Rail,Decatur-Federal,Denver CO,2013,-105.0244,39.7371,https://en.wikipedia.org/wiki/W_Line_(RTD)
+W Line,Light Rail,Knox,Denver CO,2013,-105.0329,39.7357,https://en.wikipedia.org/wiki/W_Line_(RTD)
+W Line,Light Rail,Perry,Denver CO,2013,-105.0399,39.7347,https://en.wikipedia.org/wiki/W_Line_(RTD)
+W Line,Light Rail,Sheridan,Denver CO,2013,-105.0533,39.7351,https://en.wikipedia.org/wiki/W_Line_(RTD)
+W Line,Light Rail,Lamar,Denver CO,2013,-105.0667,39.7366,https://en.wikipedia.org/wiki/W_Line_(RTD)
+W Line,Light Rail,Lakewood-Wadsworth,Denver CO,2013,-105.0812,39.7366,https://en.wikipedia.org/wiki/W_Line_(RTD)
+W Line,Light Rail,Garrison,Denver CO,2013,-105.0993,39.7365,https://en.wikipedia.org/wiki/W_Line_(RTD)
+W Line,Light Rail,Oak,Denver CO,2013,-105.1197,39.7372,https://en.wikipedia.org/wiki/W_Line_(RTD)
+W Line,Light Rail,Federal Center,Denver CO,2013,-105.1292,39.72,https://en.wikipedia.org/wiki/W_Line_(RTD)
+W Line,Light Rail,Red Rocks College,Denver CO,2013,-105.1523,39.7251,https://en.wikipedia.org/wiki/W_Line_(RTD)
+W Line,Light Rail,Jefferson County Government Center-Golden,Denver CO,2013,-105.2009,39.7263,https://en.wikipedia.org/wiki/W_Line_(RTD)
+Red Line,Light Rail,Burnett Transit Center-Casa de Amigos,Houston TX,2013,-95.3594,29.7719,https://en.wikipedia.org/wiki/METRORail_Red_Line
+Red Line,Light Rail,Quitman-Near Northside,Houston TX,2013,-95.3635,29.7802,https://en.wikipedia.org/wiki/METRORail_Red_Line
+Red Line,Light Rail,Fulton-North Central,Houston TX,2013,-95.3609,29.7851,https://en.wikipedia.org/wiki/METRORail_Red_Line
+Red Line,Light Rail,Moody Park,Houston TX,2013,-95.3657,29.7953,https://en.wikipedia.org/wiki/METRORail_Red_Line
+Red Line,Light Rail,Cavalcade,Houston TX,2013,-95.3681,29.8028,https://en.wikipedia.org/wiki/METRORail_Red_Line
+Red Line,Light Rail,Lindale Park,Houston TX,2013,-95.3695,29.8089,https://en.wikipedia.org/wiki/METRORail_Red_Line
+Red Line,Light Rail,Melbourne-North Lindale,Houston TX,2013,-95.3705,29.8159,https://en.wikipedia.org/wiki/METRORail_Red_Line
+Red Line,Light Rail,Northline Transit Center-HCC,Houston TX,2013,-95.376,29.8327,https://en.wikipedia.org/wiki/METRORail_Red_Line
+S-Line,Streetcar,South Salt Lake City,NA,2013,-111.8899,40.7223,https://en.wikipedia.org/wiki/S_Line_(Utah_Transit_Authority)
+S-Line,Streetcar,300 East,NA,2013,-111.8823,40.7223,https://en.wikipedia.org/wiki/S_Line_(Utah_Transit_Authority)
+S-Line,Streetcar,500 East,NA,2013,-111.8773,40.7223,https://en.wikipedia.org/wiki/S_Line_(Utah_Transit_Authority)
+S-Line,Streetcar,700 East,NA,2013,-111.8711,40.7228,https://en.wikipedia.org/wiki/S_Line_(Utah_Transit_Authority)
+S-Line,Streetcar,Sugarmont,NA,2013,-111.8651,40.7227,https://en.wikipedia.org/wiki/S_Line_(Utah_Transit_Authority)
+S-Line,Streetcar,Fairmont,NA,2013,-111.8614,40.7226,https://en.wikipedia.org/wiki/S_Line_(Utah_Transit_Authority)
+Green Line,Light Rail,North Temple Bridge,Salt Lake UT,2013,-111.9057,40.7716,https://en.wikipedia.org/wiki/Green_Line_(TRAX)
+Green Line,Light Rail,Jackson-Euclid,Salt Lake UT,2013,-111.9153,40.7716,https://en.wikipedia.org/wiki/Green_Line_(TRAX)
+Green Line,Light Rail,Fairpark,Salt Lake UT,2013,-111.9241,40.7716,https://en.wikipedia.org/wiki/Green_Line_(TRAX)
+Green Line,Light Rail,Power,Salt Lake UT,2013,-111.9336,40.7716,https://en.wikipedia.org/wiki/Green_Line_(TRAX)
+Green Line,Light Rail,Airport,Salt Lake UT,2013,-111.98,40.784,https://en.wikipedia.org/wiki/Green_Line_(TRAX)
+Green Line,Light Rail,1940 W. North Temple,Salt Lake UT,2013,-111.9459,40.7715,https://en.wikipedia.org/wiki/Green_Line_(TRAX)
+Blue Line,Light Rail,Draper Town Center,Salt Lake UT,2013,-111.8559,40.525,https://en.wikipedia.org/wiki/Blue_Line_(TRAX)
+Blue Line,Light Rail,Kimballs Lane,Salt Lake UT,2013,-111.8722,40.5362,https://en.wikipedia.org/wiki/Blue_Line_(TRAX)
+Blue Line,Light Rail,Crescent View,Salt Lake UT,2013,-111.8786,40.5451,https://en.wikipedia.org/wiki/Blue_Line_(TRAX)
+Orange Line,Heavy Rail,Assembly,Boston MA,2014,-71.0772,42.3926,https://en.wikipedia.org/wiki/Assembly_station
+Orange Line,Light Rail,DFW Airport,Dallas TX,2014,-97.0394,32.9068,https://en.wikipedia.org/wiki/Orange_Line_(Dallas_Area_Rapid_Transit)
+Atlanta Streetcar,Streetcar,King Historic District,NA,2014,-84.375,33.7555,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+Atlanta Streetcar,Streetcar,Edgewood-Hilliard,NA,2014,-84.3766,33.7544,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+Atlanta Streetcar,Streetcar,Dobbs Plaza,NA,2014,-84.3788,33.7555,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+Atlanta Streetcar,Streetcar,Sweet Auburn Market,NA,2014,-84.3801,33.7544,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+Atlanta Streetcar,Streetcar,Auburn-Piedmont,NA,2014,-84.382,33.7556,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+Atlanta Streetcar,Streetcar,Hurt Park,NA,2014,-84.3855,33.7544,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+Atlanta Streetcar,Streetcar,Park Place,NA,2014,-84.3883,33.7551,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+Atlanta Streetcar,Streetcar,Woodruff Park,NA,2014,-84.3882,33.7559,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+Atlanta Streetcar,Streetcar,Peachtree Center,NA,2014,-84.3876,33.7582,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+Atlanta Streetcar,Streetcar,Luckie-Cone,NA,2014,-84.3904,33.7581,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+Atlanta Streetcar,Streetcar,Centennial Olympic Park,NA,2014,-84.392,33.7594,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+Atlanta Streetcar,Streetcar,Carnegie-Spring,NA,2014,-84.3897,33.7595,https://en.wikipedia.org/wiki/Atlanta_Streetcar
+BART to OAK,Automated Heavy Rail,Oakland International Airport,NA,2014,-122.2124,37.7131,https://en.wikipedia.org/wiki/Coliseum%E2%80%93Oakland_International_Airport_line
+BART to OAK,Automated Heavy Rail,Coliseum,NA,2014,-122.1961,37.7524,https://en.wikipedia.org/wiki/Coliseum%E2%80%93Oakland_International_Airport_line
+Sun Link,Streetcar,Warren-Helen,NA,2014,-110.9464,32.2373,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,2nd-Cherry,NA,2014,-110.9475,32.2338,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,2nd-Highland,NA,2014,-110.9507,32.2338,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,2nd-Olive,NA,2014,-110.9554,32.2338,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,University-Tyndall,NA,2014,-110.9582,32.2317,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,University-3rd,NA,2014,-110.9644,32.2317,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,4th Ave-4th/5th Street,NA,2014,-110.9656,32.2298,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,4th Ave-9th Street,NA,2014,-110.9656,32.2241,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Centro Parking Garage,NA,2014,-110.9656,32.2217,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Congress-6th Ave,NA,2014,-110.9684,32.222,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Broadway-6th Ave,NA,2014,-110.9685,32.2212,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Congress-Stone,NA,2014,-110.9711,32.2219,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Broadway-Stone,NA,2014,-110.9709,32.221,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Broadway-Church,NA,2014,-110.9727,32.2211,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Congress-Church,NA,2014,-110.9727,32.2217,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Congress-Granada,NA,2014,-110.9754,32.2214,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Granada-Cushing,NA,2014,-110.9776,32.2176,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Cushing-Frontage,NA,2014,-110.9805,32.2172,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Linda-Cushing,NA,2014,-110.9839,32.2181,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Cushing-Covento,NA,2014,-110.9843,32.2177,https://en.wikipedia.org/wiki/Sun_Link
+Sun Link,Streetcar,Convento-Congress,NA,2014,-110.9853,32.2199,https://en.wikipedia.org/wiki/Sun_Link
+Green Line,Light Rail,Union Station,Twin Cities MN,2014,-93.0867,44.9482,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Central,Twin Cities MN,2014,-93.0923,44.9462,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,10th Street,Twin Cities MN,2014,-93.097,44.9501,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Robert Street,Twin Cities MN,2014,-93.0975,44.954,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Capitol-Rice Street,Twin Cities MN,2014,-93.1054,44.9557,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Western Ave,Twin Cities MN,2014,-93.1167,44.9558,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Dale Street,Twin Cities MN,2014,-93.1259,44.9557,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Victoria Street,Twin Cities MN,2014,-93.1365,44.9557,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Lexington Parkway,Twin Cities MN,2014,-93.1466,44.9557,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Hamline Ave,Twin Cities MN,2014,-93.1568,44.9557,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Snelling Ave,Twin Cities MN,2014,-93.1668,44.9557,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Fairview Ave,Twin Cities MN,2014,-93.1786,44.9564,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Raymond Ave,Twin Cities MN,2014,-93.1955,44.9631,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Westgate,Twin Cities MN,2014,-93.2065,44.9674,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Prospect Park,Twin Cities MN,2014,-93.2153,44.9717,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,Stadium Village,Twin Cities MN,2014,-93.2228,44.9748,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,East Bank,Twin Cities MN,2014,-93.2312,44.9737,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Green Line,Light Rail,West Bank,Twin Cities MN,2014,-93.2464,44.9719,https://en.wikipedia.org/wiki/Metro_Green_Line_(Minnesota)
+Silver Line,Heavy Rail,McLean-Tysons East,Washington DC,2014,-77.2105,38.9243,https://en.wikipedia.org/wiki/Silver_Line_(Washington_Metro)
+Silver Line,Heavy Rail,Tysons Corner,Washington DC,2014,-77.2235,38.9205,https://en.wikipedia.org/wiki/Silver_Line_(Washington_Metro)
+Silver Line,Heavy Rail,Greensboro,Washington DC,2014,-77.234,38.921,https://en.wikipedia.org/wiki/Silver_Line_(Washington_Metro)
+Silver Line,Heavy Rail,Spring Hill,Washington DC,2014,-77.2416,38.929,https://en.wikipedia.org/wiki/Silver_Line_(Washington_Metro)
+Silver Line,Heavy Rail,Wiehle Ave-Reston East,Washington DC,2014,-77.3386,38.9473,https://en.wikipedia.org/wiki/Silver_Line_(Washington_Metro)
+Green/Purple Lines,Light Rail,Theater District,Houston TX,2015,-95.3675,29.7606,https://en.wikipedia.org/wiki/METRORail_Green_Line
+Green/Purple Lines,Light Rail,Theater District,Houston TX,2015,-95.367,29.7615,https://en.wikipedia.org/wiki/METRORail_Green_Line
+Greed/Red/Purple Lines,Light Rail,Central,Houston TX,2015,-95.3632,29.7581,https://en.wikipedia.org/wiki/METRORail_Green_Line
+Greed/Red/Purple Lines,Light Rail,Central,Houston TX,2015,-95.3627,29.7589,https://en.wikipedia.org/wiki/METRORail_Green_Line
+Green/Purple Lines,Light Rail,Convention District,Houston TX,2015,-95.3577,29.7549,https://en.wikipedia.org/wiki/METRORail_Green_Line
+Green/Purple Lines,Light Rail,Convention District,Houston TX,2015,-95.3572,29.7556,https://en.wikipedia.org/wiki/METRORail_Green_Line
+Green/Purple Lines,Light Rail,EaDo-Stadium,Houston TX,2015,-95.3517,29.7534,https://en.wikipedia.org/wiki/METRORail_Green_Line
+Green Line,Light Rail,Coffee Plant-Second Ward,Houston TX,2015,-95.3401,29.7475,https://en.wikipedia.org/wiki/METRORail_Green_Line
+Green Line,Light Rail,Lockwood-Eastwood,Houston TX,2015,-95.3294,29.7435,https://en.wikipedia.org/wiki/METRORail_Green_Line
+Green Line,Light Rail,Altic-Howard Hughes,Houston TX,2015,-95.3207,29.7413,https://en.wikipedia.org/wiki/METRORail_Green_Line
+Purple Line,Light Rail,Leeland-Third Ward,Houston TX,2015,-95.3457,29.7396,https://en.wikipedia.org/wiki/METRORail_Purple_Line
+Purple Line,Light Rail,Elgin-Third Ward,Houston TX,2015,-95.3498,29.7276,https://en.wikipedia.org/wiki/METRORail_Purple_Line
+Purple Line,Light Rail,Robertson Stadium-UH-TSU,Houston TX,2015,-95.3515,29.7217,https://en.wikipedia.org/wiki/METRORail_Purple_Line
+Purple Line,Light Rail,UH South-University Oaks,Houston TX,2015,-95.341,29.716,https://en.wikipedia.org/wiki/METRORail_Purple_Line
+Purple Line,Light Rail,"MacGregor Park-Martin Luther King, Jr.",Houston TX,2015,-95.3364,29.7091,https://en.wikipedia.org/wiki/METRORail_Purple_Line
+Purple Line,Light Rail,Palm Center Transit Center,Houston TX,2015,-95.3323,29.6964,https://en.wikipedia.org/wiki/METRORail_Purple_Line
+Gold Line,Streetcar,CTC,NA,2015,-80.841,35.2256,https://en.wikipedia.org/wiki/CityLynx_Gold_Line
+Gold Line,Streetcar,Davidson Street,NA,2015,-80.8378,35.2228,https://en.wikipedia.org/wiki/CityLynx_Gold_Line
+Gold Line,Streetcar,McDowell Street,NA,2015,-80.8353,35.2205,https://en.wikipedia.org/wiki/CityLynx_Gold_Line
+Gold Line,Streetcar,Central Piedmont CC,NA,2015,-80.8306,35.2169,https://en.wikipedia.org/wiki/CityLynx_Gold_Line
+Gold Line,Streetcar,Elizabeth & Hawthorne,NA,2015,-80.8265,35.2136,https://en.wikipedia.org/wiki/Elizabeth_%26_Hawthorne_station
+Gold Line,Streetcar,Hawthorne/5th Street,NA,2015,-80.8248,35.2135,https://en.wikipedia.org/wiki/CityLynx_Gold_Line
+Dallas Streetcar,Streetcar,Beckley,NA,2015,-96.8229,32.7589,https://en.wikipedia.org/wiki/Dallas_Streetcar
+Dallas Streetcar,Streetcar,Greenbriar,NA,2015,-96.8153,32.7622,https://en.wikipedia.org/wiki/Dallas_Streetcar
+Dallas Streetcar,Streetcar,Oakenwald,NA,2015,-96.8183,32.7603,https://en.wikipedia.org/wiki/Dallas_Streetcar
+Dallas Streetcar,Streetcar,Union Station,NA,2015,-96.8069,32.7758,https://en.wikipedia.org/wiki/Dallas_Streetcar
+Sun Link,Streetcar,4th Ave-6th/7th Street,NA,2015,-110.9656,32.2271,https://en.wikipedia.org/wiki/Sun_Link
+7,Heavy Rail,34 St-Hudson Yards,New York NY,2015,-74.0023,40.7553,https://en.wikipedia.org/wiki/34th_Street%E2%80%93Hudson_Yards_(IRT_Flushing_Line)
+Valley Metro Rail,Light Rail,Alma School,Phoenix AZ,2015,-111.8556,33.4149,https://en.wikipedia.org/w/index.php?title=Valley_Metro_Rail#Central_Mesa_Extension
+Valley Metro Rail,Light Rail,Country Club,Phoenix AZ,2015,-111.8389,33.4151,https://en.wikipedia.org/w/index.php?title=Valley_Metro_Rail#Central_Mesa_Extension
+Valley Metro Rail,Light Rail,Center,Phoenix AZ,2015,-111.8316,33.4151,https://en.wikipedia.org/w/index.php?title=Valley_Metro_Rail#Central_Mesa_Extension
+Valley Metro Rail,Light Rail,Mesa Drive-Main Street,Phoenix AZ,2015,-111.8234,33.4151,https://en.wikipedia.org/w/index.php?title=Valley_Metro_Rail#Central_Mesa_Extension
+MAX Green/Orange Lines,Light Rail,Northwest Glisan,Portland OR,2015,-122.6756,45.5269,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Green/Orange Lines,Light Rail,Northwest Couch,Portland OR,2015,-122.6755,45.5241,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Green/Orange Lines,Light Rail,Southwest Oak,Portland OR,2015,-122.676,45.5218,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Green/Orange Lines,Light Rail,Pioneer Place,Portland OR,2015,-122.6778,45.5186,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Green/Orange Lines,Light Rail,City Hall-Southwest Jefferson,Portland OR,2015,-122.6796,45.5151,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Green/Orange Lines,Light Rail,Southwest Mill,Portland OR,2015,-122.6815,45.5117,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Green/Orange Lines,Light Rail,Southwest Jackson,Portland OR,2015,-122.6829,45.509,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Orange Line,Light Rail,Lincoln-Southwest 3rd,Portland OR,2015,-122.6808,45.5079,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Orange Line,Light Rail,Southeast Park,Portland OR,2015,-122.6351,45.4308,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Orange Line,Light Rail,Milwaukie-Main,Portland OR,2015,-122.64,45.4412,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Orange Line,Light Rail,Southeast Tacoma-Johnson Creek,Portland OR,2015,-122.6376,45.4628,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Orange Line,Light Rail,Southeast Bybee,Portland OR,2015,-122.64,45.4748,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Orange Line,Light Rail,Southeast 17th-Holgate,Portland OR,2015,-122.6485,45.4907,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Orange Line,Light Rail,Southeast 17th-Rhine,Portland OR,2015,-122.6482,45.4978,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Orange Line,Light Rail,Clinton-Southeast 12th,Portland OR,2015,-122.6532,45.5027,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Orange Line,Light Rail,OMSI-Southeast Water,Portland OR,2015,-122.6628,45.5066,https://en.wikipedia.org/wiki/MAX_Orange_Line
+MAX Orange Line,Light Rail,South Waterfront-Southwest Moody,Portland OR,2015,-122.6714,45.5027,https://en.wikipedia.org/wiki/MAX_Orange_Line
+Blue Line,Light Rail,Consumnes River College,Sacramento CA,2015,-121.4183,38.4505,https://en.wikipedia.org/wiki/List_of_Sacramento_Regional_Transit_light_rail_stations
+Blue Line,Light Rail,Center Parkway,Sacramento CA,2015,-121.4301,38.4589,https://en.wikipedia.org/wiki/List_of_Sacramento_Regional_Transit_light_rail_stations
+Blue Line,Light Rail,Franklin,Sacramento CA,2015,-121.4483,38.4629,https://en.wikipedia.org/wiki/List_of_Sacramento_Regional_Transit_light_rail_stations
+Blue Line,Light Rail,Camp Wisdom,Dallas TX,2016,-96.787,32.6633,https://en.wikipedia.org/wiki/Camp_Wisdom_station
+Blue Line,Light Rail,UNT Dallas,Dallas TX,2016,-96.8041,32.6534,https://en.wikipedia.org/wiki/UNT_Dallas_station
+A Line,Commuter Rail EMU,Denver Airport,Denver CO,2016,-104.6739,39.8473,https://en.wikipedia.org/wiki/Denver_Airport_station
+A Line,Commuter Rail EMU,61st-Pena,Denver CO,2016,-104.784,39.807,https://en.wikipedia.org/wiki/61st_%26_Pe%C3%B1a_station
+A Line,Commuter Rail EMU,40th-Airport Blvd-Gateway Park,Denver CO,2016,-104.7877,39.7701,https://en.wikipedia.org/wiki/40th_Ave_%26_Airport_Blvd%E2%80%93Gateway_Park_station
+A/R Lines,Light Rail/Commuter Rail EMU,Peoria,Denver CO,2016,-104.8508,39.7674,https://en.wikipedia.org/wiki/Peoria_station
+A Line,Commuter Rail EMU,Central Park,Denver CO,2016,-104.8917,39.7707,https://en.wikipedia.org/wiki/Central_Park_station_(RTD)
+A Line,Commuter Rail EMU,40th-Colorado,Denver CO,2016,-104.9434,39.776,https://en.wikipedia.org/wiki/40th_%26_Colorado_station
+A Line,Commuter Rail EMU,38th-Blake,Denver CO,2016,-104.9736,39.7709,https://en.wikipedia.org/wiki/38th_%26_Blake_station
+B Line,Commuter Rail EMU,Westminster,Denver CO,2016,-105.0381,39.8272,https://en.wikipedia.org/wiki/Westminster_station_(RTD)
+Expo Line,Light Rail,Downtown Santa Monica,Los Angeles CA,2016,-118.4916,34.0136,https://en.wikipedia.org/wiki/Downtown_Santa_Monica_station
+Expo Line,Light Rail,17th Street/Santa Monica College,Los Angeles CA,2016,-118.4805,34.0231,https://en.wikipedia.org/wiki/17th_Street/Santa_Monica_College_station
+Expo Line,Light Rail,26th Street/Bergamot,Los Angeles CA,2016,-118.4692,34.028,https://en.wikipedia.org/wiki/26th_Street/Bergamot_station
+Expo Line,Light Rail,Westwood/Rancho Park,Los Angeles CA,2016,-118.4247,34.0368,https://en.wikipedia.org/wiki/Westwood/Rancho_Park_station
+Expo Line,Light Rail,Palms,Los Angeles CA,2016,-118.4042,34.0293,https://en.wikipedia.org/wiki/Palms_station
+Gold Line,Light Rail,Monrovia,Los Angeles CA,2016,-118.0035,34.1331,https://en.wikipedia.org/wiki/Monrovia_station
+Gold Line,Light Rail,Duarte,Los Angeles CA,2016,-117.9679,34.1325,https://en.wikipedia.org/wiki/Duarte/City_of_Hope_station
+Gold Line,Light Rail,Irwindale,Los Angeles CA,2016,-117.9329,34.129,https://en.wikipedia.org/wiki/Irwindale_station
+Gold Line,Light Rail,Azusa Downtown,Los Angeles CA,2016,-117.9069,34.1358,https://en.wikipedia.org/wiki/Azusa_Downtown_station
+Gold Line,Light Rail,APU-Citrus College,Los Angeles CA,2016,-117.8916,34.1368,https://en.wikipedia.org/wiki/APU/Citrus_College_station
+H Street Streetcar,Streetcar,3rd Street,NA,2016,-77.002,38.9002,https://en.wikipedia.org/wiki/3rd_Street_station_(DC_Streetcar)
+H Street Streetcar,Streetcar,5th Street,NA,2016,-76.9995,38.9002,https://en.wikipedia.org/wiki/5th_Street_station_(DC_Streetcar)
+H Street Streetcar,Streetcar,8th Street,NA,2016,-76.995,38.9002,https://en.wikipedia.org/wiki/8th_Street_station_(DC_Streetcar)
+H Street Streetcar,Streetcar,13th Street,NA,2016,-76.9883,38.9002,https://en.wikipedia.org/wiki/13th_Street_station_(DC_Streetcar)
+H Street Streetcar,Streetcar,15th Street,NA,2016,-76.9835,38.9002,https://en.wikipedia.org/wiki/15th_Street_station_(DC_Streetcar)
+H Street Streetcar,Streetcar,19th Street,NA,2016,-76.9764,38.899,https://en.wikipedia.org/wiki/19th_Street_station_(DC_Streetcar)
+H Street Streetcar,Streetcar,Oklahoma Avenue,NA,2016,-76.9696,38.8978,https://en.wikipedia.org/wiki/Oklahoma_Avenue_station
+First Hill Line,Streetcar,Occidental Mall-Pioneer Square,Seattle WA,2016,-122.3337,47.5992,https://en.wikipedia.org/wiki/First_Hill_Streetcar
+First Hill Line,Streetcar,5th/Jackson-Japantown,Seattle WA,2016,-122.3277,47.5992,https://en.wikipedia.org/wiki/First_Hill_Streetcar
+First Hill Line,Streetcar,7th/Jackson-Chinatown,Seattle WA,2016,-122.3235,47.5992,https://en.wikipedia.org/wiki/First_Hill_Streetcar
+First Hill Line,Streetcar,12th/Jackson-Little Saigon,Seattle WA,2016,-122.3172,47.5992,https://en.wikipedia.org/wiki/First_Hill_Streetcar
+First Hill Line,Streetcar,14th/Washington-Central District,Seattle WA,2016,-122.3142,47.6007,https://en.wikipedia.org/wiki/First_Hill_Streetcar
+First Hill Line,Streetcar,Yesler/Broadway-Yesler Terrace,Seattle WA,2016,-122.3201,47.6017,https://en.wikipedia.org/wiki/First_Hill_Streetcar
+First Hill Line,Streetcar,Broadway/Terrace-First Hill,Seattle WA,2016,-122.3208,47.605,https://en.wikipedia.org/wiki/First_Hill_Streetcar
+First Hill Line,Streetcar,Broadway/Marion-First Hill,Seattle WA,2016,-122.3208,47.61,https://en.wikipedia.org/wiki/First_Hill_Streetcar
+First Hill Line,Streetcar,Broadway/Pike/Pine-Capitol Hill,Seattle WA,2016,-122.3208,47.6143,https://en.wikipedia.org/wiki/First_Hill_Streetcar
+First Hill Line,Streetcar,Broadway/Denny-Capitol Hill,Seattle WA,2016,-122.3208,47.6181,https://en.wikipedia.org/wiki/First_Hill_Streetcar
+Cincinnati Streetcar,Streetcar,Findlay Market,NA,2016,-84.5184,39.1161,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,Henry,NA,2016,-84.5204,39.1171,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,Findlay Market,NA,2016,-84.5198,39.1149,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,Liberty,NA,2016,-84.5176,39.1127,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,Liberty,NA,2016,-84.5193,39.1127,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,Washington Park,NA,2016,-84.5186,39.11,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,Washington Park,NA,2016,-84.5166,39.1089,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,12th/Walnut,NA,2016,-84.514,39.1084,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,Central/Walnut,NA,2016,-84.5134,39.1072,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,12th,NA,2016,-84.5115,39.1086,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,9th,NA,2016,-84.5124,39.1055,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,9th,NA,2016,-84.5108,39.1057,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,7th,NA,2016,-84.512,39.104,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,6th,NA,2016,-84.5102,39.1032,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,5th,NA,2016,-84.5114,39.1014,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,4th,NA,2016,-84.5095,39.1006,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+Cincinnati Streetcar,Streetcar,The Banks,NA,2016,-84.5097,39.0983,https://en.wikipedia.org/wiki/Cincinnati_Bell_Connector
+KC Streetcar,Streetcar,Union Station,NA,2016,-94.5842,39.0847,https://en.wikipedia.org/wiki/KC_Streetcar
+KC Streetcar,Streetcar,Crossroads,NA,2016,-94.5836,39.0904,https://en.wikipedia.org/wiki/KC_Streetcar
+KC Streetcar,Streetcar,Kauffman Center,NA,2016,-94.5835,39.0945,https://en.wikipedia.org/wiki/KC_Streetcar
+KC Streetcar,Streetcar,Power and Light,NA,2016,-94.5833,39.0973,https://en.wikipedia.org/wiki/KC_Streetcar
+KC Streetcar,Streetcar,Metro Center,NA,2016,-94.5832,39.0999,https://en.wikipedia.org/wiki/KC_Streetcar
+KC Streetcar,Streetcar,Library,NA,2016,-94.5831,39.1036,https://en.wikipedia.org/wiki/KC_Streetcar
+KC Streetcar,Streetcar,North Loop,NA,2016,-94.5831,39.1055,https://en.wikipedia.org/wiki/KC_Streetcar
+KC Streetcar,Streetcar,City Market,NA,2016,-94.5816,39.1085,https://en.wikipedia.org/wiki/KC_Streetcar
+KC Streetcar,Streetcar,River Market West,NA,2016,-94.5844,39.1089,https://en.wikipedia.org/wiki/KC_Streetcar
+KC Streetcar,Streetcar,River Market North,NA,2016,-94.5822,39.1102,https://en.wikipedia.org/wiki/KC_Streetcar
+Dallas Streetcar,Streetcar,Bishop Arts District,NA,2016,-96.8241,32.7495,https://en.wikipedia.org/wiki/Dallas_Streetcar
+Dallas Streetcar,Streetcar,7th,NA,2016,-96.8241,32.7524,https://en.wikipedia.org/wiki/Dallas_Streetcar
+Valley Metro Rail,Light Rail,19th Ave-Dunlap,Phoenix AZ,2016,-112.1011,33.5674,https://en.wikipedia.org/wiki/19th_Avenue/Dunlap_station
+Valley Metro Rail,Light Rail,Northern,Phoenix AZ,2016,-112.0996,33.5528,https://en.wikipedia.org/wiki/Northern/19th_Avenue_station
+Valley Metro Rail,Light Rail,Glendale,Phoenix AZ,2016,-112.0996,33.5381,https://en.wikipedia.org/wiki/Glendale/19th_Avenue_station
+University Link,Light Rail,University of Washington,Seattle WA,2016,-122.3037,47.6498,https://en.wikipedia.org/wiki/University_of_Washington_station
+South 200th Link,Light Rail,Angle Lake,Seattle WA,2016,-122.3,47.4223,https://en.wikipedia.org/wiki/Angle_Lake_station
+BART,Heavy Rail,Warm Springs-South Fremont,Bay Area CA,2017,-121.9392,37.5019,https://en.wikipedia.org/wiki/Warm_Springs/South_Fremont_station
+SMART,DMU Commuter Rail,San Rafael,Bay Area CA,2017,-122.5226,37.9719,https://en.wikipedia.org/wiki/San_Rafael_Transit_Center
+SMART,DMU Commuter Rail,Marin Civic Center,Bay Area CA,2017,-122.5374,38.0015,https://en.wikipedia.org/wiki/Marin_Civic_Center_station
+SMART,DMU Commuter Rail,Novato Hamilton,Bay Area CA,2017,-122.5248,38.0578,https://en.wikipedia.org/wiki/Novato_Hamilton_station
+SMART,DMU Commuter Rail,Novato San Marin,Bay Area CA,2017,-122.566,38.119,https://en.wikipedia.org/wiki/Novato_San_Marin_station
+SMART,DMU Commuter Rail,Petaluma Downtown,Bay Area CA,2017,-122.6367,38.2375,https://en.wikipedia.org/wiki/Petaluma_Downtown_station
+SMART,DMU Commuter Rail,Cotati,Bay Area CA,2017,-122.6915,38.332,https://en.wikipedia.org/wiki/Cotati_station
+SMART,DMU Commuter Rail,Rohnert Park,Bay Area CA,2017,-122.7015,38.3479,https://en.wikipedia.org/wiki/Rohnert_Park_station
+SMART,DMU Commuter Rail,Santa Rosa Downtown,Bay Area CA,2017,-122.7222,38.4391,https://en.wikipedia.org/wiki/Santa_Rosa_Downtown_station
+SMART,DMU Commuter Rail,Santa Rosa North,Bay Area CA,2017,-122.737,38.4561,https://en.wikipedia.org/wiki/Santa_Rosa_North_station
+SMART,DMU Commuter Rail,Sonoma County Airport,Bay Area CA,2017,-122.7853,38.511,https://en.wikipedia.org/wiki/Sonoma_County_Airport_station
+Brown/Green/Orange/Pink/Purple Lines,Heavy Rail,Washington/Wabash,Chicago IL,2017,-87.6262,41.8835,https://en.wikipedia.org/wiki/Washington/Wabash_station
+Green Line,Light Rail,Cesar Chavez-67th Street,Houston TX,2017,-95.308,29.7375,https://en.wikipedia.org/wiki/Cesar_Chavez/67th_Street_station
+Green Line,Light Rail,Magnolia Park Transit Center,Houston TX,2017,-95.3028,29.7359,https://en.wikipedia.org/wiki/Magnolia_Park_Transit_Center
+R Line,Light Rail,Fitzsimons,Denver CO,2017,-104.8401,39.7549,https://en.wikipedia.org/wiki/R_Line_(RTD)
+R Line,Light Rail,Colfax,Denver CO,2017,-104.8269,39.74,https://en.wikipedia.org/wiki/R_Line_(RTD)
+R Line,Light Rail,13th Ave,Denver CO,2017,-104.8236,39.7349,https://en.wikipedia.org/wiki/R_Line_(RTD)
+R Line,Light Rail,2nd Ave-Abilene,Denver CO,2017,-104.8256,39.7195,https://en.wikipedia.org/wiki/R_Line_(RTD)
+R Line,Light Rail,Aurora Metro Center,Denver CO,2017,-104.819,39.7086,https://en.wikipedia.org/wiki/R_Line_(RTD)
+H/R Lines,Light Rail,Florida,Denver CO,2017,-104.8285,39.6901,https://en.wikipedia.org/wiki/R_Line_(RTD)
+H/R Lines,Light Rail,Iliff,Denver CO,2017,-104.8269,39.6733,https://en.wikipedia.org/wiki/R_Line_(RTD)
+M-1 Rail,Streetcar,Grand,Detroit MI,2017,-83.0733,42.3702,https://en.wikipedia.org/wiki/QLine
+M-1 Rail,Streetcar,Amtrak,Detroit MI,2017,-83.0719,42.3681,https://en.wikipedia.org/wiki/QLine
+M-1 Rail,Streetcar,Amsterdam,Detroit MI,2017,-83.0708,42.3663,https://en.wikipedia.org/wiki/QLine
+M-1 Rail,Streetcar,Ferry,Detroit MI,2017,-83.0672,42.3612,https://en.wikipedia.org/wiki/QLine
+M-1 Rail,Streetcar,Warren,Detroit MI,2017,-83.0644,42.357,https://en.wikipedia.org/wiki/QLine
+M-1 Rail,Streetcar,Canfield,Detroit MI,2017,-83.0615,42.3527,https://en.wikipedia.org/wiki/QLine
+M-1 Rail,Streetcar,"Martin Luther King, Jr.",Detroit MI,2017,-83.058,42.3474,https://en.wikipedia.org/wiki/QLine
+M-1 Rail,Streetcar,Sibley,Detroit MI,2017,-83.0539,42.3415,https://en.wikipedia.org/wiki/QLine
+M-1 Rail,Streetcar,Foxtown,Detroit MI,2017,-83.0522,42.339,https://en.wikipedia.org/wiki/QLine
+M-1 Rail,Streetcar,Grand Circus,Detroit MI,2017,-83.0501,42.3358,https://en.wikipedia.org/wiki/QLine
+M-1 Rail,Streetcar,Campus Martius,Detroit MI,2017,-83.0471,42.3321,https://en.wikipedia.org/wiki/QLine
+M-1 Rail,Streetcar,Congress,Detroit MI,2017,-83.0456,42.3297,https://en.wikipedia.org/wiki/QLine
